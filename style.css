@@ -1,0 +1,106 @@
+.taskPosition{
+    position: absolute;
+    left: 30px;
+    top: 200px;
+   
+}
+.taskPosition2{
+    position: absolute;
+    left: 800px;
+    top: 200px;
+   
+}
+#task1{
+    width: 700px;
+    height: 400px;
+    visibility:hidden;
+    
+}
+
+#task2{
+    width: 700px;
+    height: 400px;
+    visibility:hidden;  
+}
+.bg1{
+    background-image: url('assets/task_1_good.png');
+}
+.bg2{
+    background-image: url('assets/task_1_evil.png');
+}
+.bg3{
+    background-image: url('assets/task_2_evil.png');
+}
+.inGR{
+    margin-top: 250px;
+}
+#pop1{
+    background-image: url('');
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+.nums{
+    margin-top: 150px;
+}
+#pop2{
+    background-image: url('');
+    position: absolute;
+    left: 30px;
+    top: 200px;
+}
+/* #displayer {
+        visibility:hidden;
+} */
+
+/* #startGameBtn {
+margin-top: 355px;
+  background-color: #555555; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+} */
+
+#startGameBtn {
+    box-sizing: border-box;
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #FF0000 ;
+  border-radius: 0.6em;
+  color: #FF0000 ;
+  cursor: pointer;
+  display: flex;
+  align-self: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  margin: 20px;
+  padding: 55px 133px;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  border-radius: 30px;
+
+}
+
+#startGameBtn:hover,
+#startGameBtn:focus {
+  color: #fff;
+  outline: 0;
+}
+
+
+#divforintro {
+    position: absolute;
+    top:495px ;
+    left:640px;
+    display:inline;
+}
