@@ -8,6 +8,13 @@
 **I am you from another view** is a 2D game project developed using the Phaser framework. The game is designed to showcase various game development techniques, including scene management, asset loading, and interactive gameplay.
 
 
+
+## Live Demo
+
+[![Watch Gameplay Demo](https://img.youtube.com/vi/fN8fFLbi0Ok/maxresdefault.jpg)](https://youtu.be/fN8fFLbi0Ok)
+
+> Click the thumbnail above to watch the full demo video.
+
 ## Features
 
 - **Scene Management**: Efficient handling of different game scenes.
@@ -34,6 +41,17 @@ This project serves as a comprehensive example for developers interested in crea
 ![Screenshot 4](https://raw.githubusercontent.com/khaled71612000/Phaser-2D-Jam-Game/HEAD/assets/R_L1_00.png)
 
 ![Screenshot 5](https://raw.githubusercontent.com/khaled71612000/Phaser-2D-Jam-Game/HEAD/assets/R_L1_01.png)
+
+
+## Tech Stack
+
+| Technology | Role |
+|---|---|
+| Phaser 3 | 2D game framework |
+| JavaScript | Game logic |
+| HTML5 Canvas | Rendering |
+| Tiled | Level design |
+
 
 ## Getting Started
 
