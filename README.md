@@ -43,6 +43,18 @@ This project serves as a comprehensive example for developers interested in crea
 ![Screenshot 5](https://raw.githubusercontent.com/khaled71612000/Phaser-2D-Jam-Game/HEAD/assets/R_L1_01.png)
 
 
+
+## Architecture
+
+Key classes and systems (from source code):
+
+- **`level1.js`** — JS/TS module — 455 lines
+- **`loadScene.js`** — JS/TS module — 21 lines
+- **`menuScene.js`** — JS/TS module — 14 lines
+- **`CST.js`** — JS/TS module — 7 lines
+- **`index.js`** — JS/TS module — 28 lines
+
+
 ## Tech Stack
 
 | Technology | Role |
